@@ -8,8 +8,8 @@ Matlab code to generate stitched images using homography.
 
 Image stitching by finding the homography matrix between successive images.\
 Features : 
-1. Harris corner detector[1]
-2. SURF[2]
+1. Harris corner detector
+2. SURF
 
 Matching Method:
 1. SAD : Sum of absolute distance
